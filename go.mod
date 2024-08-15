@@ -1,3 +1,3 @@
 module github.com/sokserey-hing/xmlmodel
 
-go 1.23.0
+go 1.22
